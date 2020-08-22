@@ -3,7 +3,7 @@ AWS Cloud Certifications?
 
 
 ### Foundational-level AWS Certification
-+ **Cloud Practitioner (PASS 2020/08/22)**
++ **Cloud Practitioner (PASSED 2020/08/22)**
 
 ### Associate-level AWS Certifications
 + Solutions Architect - Associate
